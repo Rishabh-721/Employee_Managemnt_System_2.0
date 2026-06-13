@@ -1,0 +1,7 @@
+
+#Node 
+Backend/node_modules
+Frontend/ems2.0/node_modules
+
+#Enviroment
+Backend/.env
